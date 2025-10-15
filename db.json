@@ -1,0 +1,39 @@
+{
+  "all-resumes": [
+    {
+      "id": "de55",
+      "professionaldata": {
+        "name": "jinet kl",
+        "jobtitle": "web developer",
+        "location": "india",
+        "email": "jinet7070@gmail.com",
+        "phone": "9605361315",
+        "github": "user234@gmail.com",
+        "linkedin": "user234@gmail.com",
+        "portfolio": "user234@gmail.com"
+      },
+      "educationdata": {
+        "course": "bca",
+        "college": "dbasc",
+        "university": "kannur university",
+        "year": "2025"
+      },
+      "experience": {
+        "jobrole": "web development",
+        "company": "luminar",
+        "joblocation": "kakkanad",
+        "duration": "1 year"
+      },
+      "skill": [
+        "CSS",
+        "JAVASCRIPT",
+        "GIT",
+        "NEXTJS",
+        "NODEJS",
+        "BOOTSTRAP",
+        "REACT"
+      ],
+      "summary": "Passionate and detail-oriented Web Developer with hands-on experience building responsive websites and web applications using HTML, CSS, JavaScript, and React. Strong understanding of front-end design principles, API integration, and version control (Git). Eager to apply skills to real-world projects and grow as a full-stack developer."
+    }
+  ]
+}
