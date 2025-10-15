@@ -11,14 +11,17 @@ const middleware = JSONserver.defaults()
 const router = JSONserver.router("db.json")
 
 //define port to run the server
-const PORT = 3000
+const PORT = 3000 || process.env.PORT
 
 
 //use middleware
 rbuilder.use(middleware)
 
+//use router
 rbuilder.use(router)
 
+
+//tell server to listen for request for client requests
 rbuilder.listen(PORT,()=>{
     console.log(`resume builder is started at port ${PORT}`);
     
